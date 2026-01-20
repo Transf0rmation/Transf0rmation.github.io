@@ -3,5 +3,6 @@ lang: es
 theme: jekyll-theme-minimal
 title: Proyecto inicial
 description: Este es el pryecto más interesante de la historia!
+baseulr: ""
 
 url: https://transf0rmation.github.io
