@@ -1,11 +1,9 @@
 ---
-title: "Primer Documento"
-date: 2026-01-20 00:00:00 -0500
-categories: [Primer Documento]
-tags: [Primer Documento]
+title: "Inicio"
 ---
 
 
-# Transf0rmation.
+*Probando contenido de con Markdown
 
 [Ir a Nosotros]({{site.baseurl}}/nosotros)
+[Documentos]({{site.baseurl}}/documentos)
